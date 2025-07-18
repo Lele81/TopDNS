@@ -1,5 +1,5 @@
-# TopDNS
-Dynamic DNS with Tophost
+# TopDNS - Dynamic DNS with Tophost
+
 <img width="225" height="224" alt="DDNSTophost" src="https://github.com/user-attachments/assets/a1535ae5-cf9e-4288-a199-457a43245138" />
 
 Questo script permette di aggiornare i record A DNS presenti nel cpanel del provider Tophost direttamente da riga di comando, senza utilizzare un browser.
